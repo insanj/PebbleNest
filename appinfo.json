@@ -1,0 +1,17 @@
+{
+  "uuid": "15533954-1207-4b9e-ad15-0ccbdcf6f22c",
+  "shortName": "PBNestWatch",
+  "longName": "PBNestWatch",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
