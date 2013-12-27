@@ -6,6 +6,7 @@ Your Pebble and iPhone should be friends, not colleagues.
 ---------------------------------------
 	Simplified BSD License
 	Copyright (c) 2013, Julian Weiss
+	Copyright (c) 2013, Dylan Laws
 	All rights reserved.
 
 	Redistribution and use in source and binary forms, with or without
